@@ -5,7 +5,7 @@
 ## 🧠 AIM
 To write a program for error detection using the Cyclic Redundancy Check (CRC-16 bit) technique.
 
-## 🛠️ EQUIPMENTS REQUIRED
+## 🛠️ EQUIPMENTS REQUIREDa
 1. Personal Computer  
 2. C++ Compiler
 
@@ -75,10 +75,14 @@ void main() {
 
 
 }
-
+```
 ## 💻 OUTPUT
-
 <img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/1f5d9e2b-ad28-4b27-8d96-a50fc26f9752" />
+<img width="1600" height="1178" alt="WhatsApp Image 2026-06-01 at 6 25 48 PM" src="https://github.com/user-attachments/assets/b831d572-0669-4350-90d9-23120c497172" />
+
+
+## RESULT
+Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
 
 
 
